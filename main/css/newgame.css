@@ -1,0 +1,93 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-image: url("../../resources/images/tomato.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.interface {
+  flex-basis: 65%;
+  margin: 0 auto;
+  background-color: #ff9999;
+  height: 80%;
+  position: relative;
+  opacity: 0.9;
+}
+
+.top-section {
+  background-color: #ff4d4d;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  height: 30%;
+}
+
+.top-section h1 {
+  font-size: 50px;
+  font-family: blame;
+  color: white;
+  margin: 0;
+  margin-top: -2%;
+}
+
+.bottom-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50%;
+}
+
+.new-game {
+
+  text-align: center;
+}
+
+.new-game h2 {
+  font-size: 30px;
+  font-family: Bruce Forever;
+  color: red;
+  margin-bottom: 10%;
+}
+
+.new-game p {
+  font-size: 30px;
+  font-family: Pilot Command;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  color: black;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.join-button,
+.exit-button {
+  padding: 10px 30px;
+  font-size: 30px;
+  border-radius: 10px;
+  background-color: #5f1515;
+  color: #fff;
+  border: none;
+  margin: 0 20px;
+  cursor: pointer;
+  font-family: Bruce Forever;
+}
+
+.join-button:hover,
+.exit-button:hover {
+  background-color: #cc4949;
+  transform: translateY(-5px);
+}
