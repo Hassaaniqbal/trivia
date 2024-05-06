@@ -1,4 +1,4 @@
-# Trivia Game Project
+# Trivia 
 
 Welcome to Trivia, an exciting quiz game designed for the final year project! This project utilizes the Tomato API to create an immersive gaming experience while exploring various concepts, paradigms, and architectures related to Software Development.
 
