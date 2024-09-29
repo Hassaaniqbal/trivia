@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Trivia
 
@@ -80,4 +81,3 @@ Please adhere to this project's [code of conduct](./CODE_OF_CONDUCT.md).
 
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for details.
-
