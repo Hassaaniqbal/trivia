@@ -7,7 +7,7 @@ if ($_SESSION['loggedin'])
   // Obtain username of logged in user
   $username = $_SESSION['username'];  
 
-  // Obtain current score from javascript
+  // Obtain current score 
   $score = $_POST['currentScore'];
 
 
