@@ -33,7 +33,7 @@ To run this project locally, follow the steps below:
 **Clone the Repository:**
 
 ```bash
-git clone git@github.com:Hassaaniqbal/trivia.git
+git clone https://git@github.com:Hassaaniqbal/trivia.git
 
 ```
 
